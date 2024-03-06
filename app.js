@@ -1,18 +1,3 @@
-// const url= "https://cat-fact.herokuapp.com/facts";
-// const factPara=document.querySelector("#fact");
-// const buttoni= document.querySelector("#btn");
-
-// const getData= async()=>{
-//     console.log("Data getting")
-//     let response = await fetch(url);
-//     console.log(response);
-//     let data= await response.json();
-//     factPara.innerHTML=data[1].text;
- 
-// }
-
-
-// buttoni.addEventListener("click" ,getData )
 
 const BASE_URL =
   "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
